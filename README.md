@@ -1,1 +1,1 @@
-# MediCare
+# Medi
